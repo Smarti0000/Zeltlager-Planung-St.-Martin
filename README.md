@@ -4,7 +4,7 @@ Dieses Repository enthält die Planung und Organisation für unser jährliches Z
 
 [Zeltlager](Zeltlager)
 
-[Plakat](Zeltlager Plakat 2021.docx)
+[Plakat](ZeltlagerPlakat2021.docx)
 
 ## Prozessverlauf
 
