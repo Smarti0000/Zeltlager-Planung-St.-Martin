@@ -2,7 +2,7 @@
 
 Dieses Repository enthält die Planung und Organisation für unser jährliches Zeltlager. Es dient als zentraler Ort für alle Informationen, Aufgaben und Verantwortlichkeiten.
 
-[Zeltlager](Zeltlager.txt)
+[Zeltlager](Zeltlager)
 
 ## Prozessverlauf
 
